@@ -1,0 +1,11 @@
+C:\Users\Faizan\Desktop\Fundamentals1\bin\Debug\netcoreapp2.1\Fundamentals1.deps.json
+C:\Users\Faizan\Desktop\Fundamentals1\bin\Debug\netcoreapp2.1\Fundamentals1.runtimeconfig.json
+C:\Users\Faizan\Desktop\Fundamentals1\bin\Debug\netcoreapp2.1\Fundamentals1.runtimeconfig.dev.json
+C:\Users\Faizan\Desktop\Fundamentals1\bin\Debug\netcoreapp2.1\Fundamentals1.dll
+C:\Users\Faizan\Desktop\Fundamentals1\bin\Debug\netcoreapp2.1\Fundamentals1.pdb
+C:\Users\Faizan\Desktop\Fundamentals1\obj\Debug\netcoreapp2.1\Fundamentals1.csprojAssemblyReference.cache
+C:\Users\Faizan\Desktop\Fundamentals1\obj\Debug\netcoreapp2.1\Fundamentals1.csproj.CoreCompileInputs.cache
+C:\Users\Faizan\Desktop\Fundamentals1\obj\Debug\netcoreapp2.1\Fundamentals1.AssemblyInfoInputs.cache
+C:\Users\Faizan\Desktop\Fundamentals1\obj\Debug\netcoreapp2.1\Fundamentals1.AssemblyInfo.cs
+C:\Users\Faizan\Desktop\Fundamentals1\obj\Debug\netcoreapp2.1\Fundamentals1.dll
+C:\Users\Faizan\Desktop\Fundamentals1\obj\Debug\netcoreapp2.1\Fundamentals1.pdb
